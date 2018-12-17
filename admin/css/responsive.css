@@ -1,0 +1,1279 @@
+@media (max-width: 1366px) {
+.side-menu-sec {
+    width: 246px !important;
+}
+.main-content {
+    padding: 30px 30px 30px 276px;
+}
+.weather-infos {
+    padding: 0 20px;
+}
+.weather-infos > h3 {
+    float: left;
+    width: 100%;
+}
+.weather-infos {
+    margin-top: 50px;
+}
+.dounut-chart {
+    padding: 60px 30px 30px 0;
+}
+.carousal-widget ul li {
+    padding: 66px 50px;
+}
+#vmap {
+    float: left;
+    width: 100%;
+}
+.logo {
+    padding-left: 20px;
+}
+.search-dashboard > form {
+    width: 204px;
+}
+.flat-chart-detail {
+    padding: 0 30px;
+}  
+.quick-all-report {
+    padding: 35px 20px;
+}
+.support-ticket-sec {
+    padding: 30px 0 30px 20px;
+}
+.support-ticket > li {
+    padding: 20px 10px 20px 0;
+}
+.quick-flat-chart > span {
+    padding-left: 20px;
+}
+.quick-flat-chart > p {
+    margin-right: 20px;
+}
+.graph-container {
+    padding: 0 20px;
+}
+.task-graph-chart .pie-colours {
+    left: 20px;
+}
+.task-graph-chart {
+    padding-left: 105px;
+}
+.widget-title > h3 {
+    font-size: 16px;
+}
+.profile-widget-head > h3 {
+    font-size: 18px;
+}
+.weather-infos > h3 {
+    font-size: 18px;
+}
+.dounut-chart > #sparkline {
+    overflow: hidden;
+}
+.admin-follow > ul > li {
+    padding: 0 10px;
+}
+.admin-follow {
+    padding: 47px 20px;
+}
+.our-clients-sec {
+    padding: 40px 30px;
+}
+.quick-report-widget.style2 {
+    padding: 30px 25px;
+}
+.heading-profile > h2 {
+    font-size: 22px;
+}
+.widget-controls {
+    position: absolute;
+    right: 0;
+    top: -1px;
+}
+.widget-controls > span {
+    font-size: 10px;
+    height: 26px;
+    line-height: 24px;
+    width: 27px;
+}
+.social-activities > ul > li {
+    width: 50%;
+}
+#indicatorContainerWrap2 {
+    float: left;
+    position: relative;
+    right: 26px;
+    
+    -webkit-transform: scale(0.8);
+    -moz-transform: scale(0.8);
+    -ms-transform: scale(0.8);
+    -o-transform: scale(0.8);
+    transform: scale(0.8);
+
+}
+.blog-info > h2 {
+    font-size: 20px;
+    line-height: 27px;
+    margin: 0 0 11px;
+}
+.blog-info > p {
+    padding-right: 0;
+}
+.team .team-info-sec {
+    padding: 20px;
+}
+.team-info > h3 {
+    font-size: 16px;
+}
+.square-infos {
+    padding: 50px 30px;
+}
+.square-infos > i {
+    font-size: 39px;
+    margin-bottom: 6px;
+}
+.square-infos > h3 {
+    font-size: 18px;
+    font-weight: bold;
+    margin: 14px 0 8px;
+}
+
+
+}
+
+@media (max-width: 1200px) {
+.side-menu-sec {
+    left: -246px;
+}
+.main-content {
+    padding: 30px 30px 30px 30px;
+}
+.main-content.menu-slide {
+    padding-left: 30px;
+}
+.side-menu-sec.slide-out {
+    left: 0;
+}
+.side-menus {
+    margin-bottom: 40px;
+}
+.search-dashboard {
+    margin-left: 40px;
+}
+.logo {
+    margin-right: 0;
+} 
+.quick-notify-section > li > span {
+    width: 60px;
+}
+
+
+
+}
+
+@media (max-width:980px) {
+.logo {
+    margin-right: 20px;
+    padding: 18px 30px 18px 30px;
+}
+.search-dashboard {
+    margin-left: 20px;
+}
+.search-dashboard > form {
+    width: 194px;
+}
+.custom-dropdowns {
+    margin: 9px 0 0 20px;
+}
+.name-area {
+    margin-right: 20px;
+}
+.quick-notify-section > li > span {
+    width: 60px;
+}
+.main-title-sec > .row > div.col-md-3 {
+    float: left;
+    width: auto;
+}
+.main-title-sec > .row > div.col-md-9 {
+    float: right;
+    width: auto;
+}
+.quick-all-report {
+    padding: 30px;
+    margin-top: -30px;
+}
+.quick-all-report > .row > div {
+    float: left;
+    width: 33.333%;
+}
+.quick-all {
+    margin-top: 30px;
+}
+header.simple-normal {
+    z-index: 2;
+}
+.quick-flat-chart .graph-container canvas {
+    float: left;
+    width: 100%;
+}
+.dounut-chart {
+    padding: 30px;
+}
+.visit-table {
+    padding: 30px;
+}
+.carousal-widget {
+    min-height: 276px;
+}
+.support-ticket-sec {
+    position: relative;
+    z-index: 1;
+}
+.double-chart {
+    padding: 30px;
+}
+.statistics-report {
+    text-align: center;
+}
+.statistics-report > li {
+    display: inline-block;
+    float: none;
+}
+.all-mail {
+    margin-top: 40px;
+}
+.bootstrap-tabs {
+    float: left;
+    width: 100%;
+}
+.tab-group section.active {
+    height: auto;
+    opacity: 1;
+}
+.rad-cntnt {
+    vertical-align: inherit;
+}
+.widget .row > div.top {
+    margin: 0 0 14px;
+    padding: 0 10px;
+}
+.widget .row > div.keys > div {
+    float: left;
+    width: 25%;
+}
+.gallery-sec > .row > div {
+    float: left;
+    width: 50%;
+}
+.main-title-sec > .row > div.col-md-3 {
+    width: 30%;
+}
+.heading-profile > h2 {
+    font-size: 22px;
+}
+.heading-profile > span {
+    font-size: 13px;
+}
+.blog-sec > .row > div {
+    float: left;
+    width: 50%;
+}
+.blog-info > h2 {
+    font-size: 19px;
+    line-height: 27px;
+    margin: 0 0 4px;
+}
+.blog-sec > .row > div.col-md-12 {
+    float: left;
+    margin-top: 40px;
+    width: 100%;
+}
+.contact-form > form .row > div {
+    float: left;
+    width: 100%;
+}
+.team-sec > .row > div {
+    float: left;
+    width: 50%;
+}
+.themify-icons-list > .icons-main-section > .icons-container {
+    float: left;
+    width: 50%;
+}
+.cart-item-quantity {
+    width: 200px;
+}
+.flat-btn {
+    font-size: 15px;
+    padding: 16px 19px;
+}
+.billing-sec > .row > div {
+    float: left;
+    width: 100%;
+}
+.account-sec .contact-sec > .row > div {
+    float: left;
+    width: 100%;
+}
+.more-option {
+    display: none;
+}
+.account-form > form > .row > div {
+    float: left;
+    width: 100%;
+}
+.creat-an-account {
+    margin-top: 30px;
+    padding: 0;
+}
+.account-detail {
+    margin-bottom: 40px;
+}
+.quick-btn-title > a {
+    margin: 0 10px;
+    padding: 10px 0;
+}
+.date-range {
+    padding: 10px 15px;
+}
+.main-content-area > .row > div {
+    width: 100%;
+}
+.main-content-area > .row > div.col-sm-6 {
+    width: 50%;
+}
+.btn-toolbar > .btn-group {
+    height: 40px;
+}
+body.modal-open header {
+    z-index: 1;
+}
+#connected > div {
+    float: left;
+    width: 50%;
+}
+.heading-profile > h2 {
+    font-size: 18px;
+}
+.top-bar-chart {
+    float: right;
+    margin-left: 10px;
+}
+.bar-chart-details > p {
+    font-size: 12px;
+}
+.widget-content {
+    padding: 30px 20px 40px;
+}
+.portfolio-sec > li {
+    float: left;
+    width: 50%;
+}
+
+
+
+
+
+}
+
+@media (max-width: 767px) {
+.top-bar-quick-sec {
+    margin-top: -15px;
+}
+.main-content.menu-slide {
+    padding-left: 10px;
+}    
+.logo {
+    margin-right: 10px;
+    padding: 18px 20px;
+}
+.logo > a {
+    font-size: 19px;
+}
+.name-area > a strong {
+    display: none;
+}
+.name-area > a img {
+    margin-right: 0;
+}
+.quick-notify-section > li > span {
+    width: 50px;
+}
+.quick-notify-section > li > span > i {
+    font-size: 11px;
+}
+.quick-notify-section > li > span > strong {
+    font-size: 11px;
+}
+.main-content {
+    padding: 20px;
+}
+.welcome-message {
+    padding: 30px;
+}
+.search-dashboard {
+    float: left;
+}
+.main-content.menu-slide {
+    padding-left: 20px;
+}
+.main-title-sec > .row > div.col-md-3, .main-title-sec > .row > div.col-md-9 {
+    float: left;
+    width: 100%;
+}
+.heading-profile {
+    margin-bottom: 20px;
+    text-align: center;
+}
+.quick-btn-title {
+    float: left;
+}
+.main-content-area > .row > div {
+    float: left;
+    width: 100%;
+}
+.responsive-search {
+    display: block;
+}
+.search-dashboard > form > input {
+    width: 100%;
+}
+.search-dashboard > form {
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    -ms-border-radius: 0;
+    -o-border-radius: 0;
+    border-radius: 0;
+
+    left: 0;
+    opacity: 0;
+    position: absolute;
+    top: 100%;
+    visibility: hidden;
+    width: 100%;
+}
+.profile-avatar {
+    float: left;
+    max-width: 100%;
+    padding: 0;
+    text-align: center;
+    width: 100%;
+}
+.profile-avatar > span {
+    display: inline-block;
+    float: none;
+    position: static;
+}
+.profile-count {
+    float: left;
+    margin: 0;
+    position: static;
+    text-align: center;
+    width: 100%;
+}
+.profile-count > li {
+    display: inline-block;
+    float: none;
+    font-size: 27px;
+    line-height: 22px;
+}
+.profile-name .social-btns > li {
+    display: inline-block;
+    float: none;
+    margin-bottom: 30px !important;
+}
+.profile-connect {
+    float: left;
+    margin-top: 30px;
+    position: static;
+    text-align: center;
+    width: 100%;
+}
+.profile-connect > li {
+    display: inline-block;
+    float: none;
+}
+blockquote {
+    padding: 50px;
+}
+#connected {
+    float: left;
+    width: 100%;
+}
+#connected > div {
+    float: left;
+    width: 50%;
+}
+#keywords thead tr th {
+    padding: 12px 30px 12px 19px;
+}
+.with-padding {
+    padding: 20px;
+}
+.slick-slider li {
+    padding: 0 10px;
+}
+.blog-info > p {
+    padding: 0;
+}
+.blog-sec > .row > div {
+    float: left;
+    width: 100%;
+}
+.wanna-touch {
+    background: #ffffff none repeat scroll 0 0;
+    float: left;
+    height: auto;
+    left: 0;
+    margin: 0;
+    padding: 30px 20px;
+    position: relative;
+    top: 0;
+    
+    -webkit-transform: initial;
+    -moz-transform: initial;
+    -ms-transform: initial;
+    -o-transform: initial;
+    transform: initial;
+
+    width: 100%;
+}
+.wanna-touch-inner {
+    float: left;
+    position: static;
+    
+    -webkit-transform: initial;
+    -moz-transform: initial;
+    -ms-transform: initial;
+    -o-transform: initial;
+    transform: initial;
+    
+    width: 100%;
+}
+.invoice-billing .col-md-6 {
+    float: left;
+    width: 50%;
+}
+.description {
+    display: none;
+}
+.date {
+    width: 20%;
+}
+.invoice-number {
+    width: 20%;
+}
+.quantity {
+    width: 20%;
+}
+.vat {
+    width: 20%;
+}
+.total {
+    width: 20%;
+}
+.long-column {
+    width: 80%;
+}
+.msg {
+    float: left;
+    margin: 20px auto 0;
+    padding: 15px 51px;
+    text-align: center;
+    width: 100%;
+}
+.invoice-billing > .row > .col-md-6 {
+    float: left;
+    width: 50%;
+}
+.total a {
+    font-size: 12px;
+    line-height: 10px;
+    padding: 13px 26px;
+}
+.search-result > img {
+    float: left;
+    width: 100%;
+}
+.team-info > p {
+    padding: 0 40px;
+}
+.team .team-info-sec {
+    padding: 10px;
+}
+ul.portfolio-sec > li {
+    float: left;
+    width: 50%;
+}
+.product-sec > .row > div {
+    float: left;
+    width: 50%;
+}
+.cart-lists > ul > li {
+    display: inline-block;
+}
+.cart-thumb > p {
+    float: left;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+.cart-thumb {
+    float: left;
+    text-align: center;
+    width: 100%;
+}
+.cart-thumb > span {
+    display: inline-block;
+    float: none;
+}
+.cart-thumb > h3 {
+    float: left;
+    margin: 10px 0 0;
+    padding: 0;
+    width: 100%;
+}
+.cart-thumb > .price-cart-item {
+    float: left;
+    text-align: center;
+    width: 100%;
+}
+.cart-thumb > .price-cart-item > span {
+    float: left;
+    margin: 10px 0 0;
+    padding: 0;
+    width: 100%;
+}
+.cart-lists .c-input-number {
+    float: left;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    padding: 0 160px;
+    width: 100%;
+}
+.cart-item-quantity {
+    float: left;
+    text-align: center;
+    width: 100%;
+}
+
+.cart-thumb > a.delete-cart {
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    border-radius: 50%;
+
+    left: 50%;
+    margin-left: -20px;
+    margin-top: 20px;
+}
+
+.coupens-area .coupon {
+    float: left;
+    margin: 0 0 10px;
+    width: 100%;
+}
+.container {
+    padding: 0 15px !important;
+}
+.close-panel-this{
+    right: 80%;
+}
+#stream_table td {
+    font-size: 9px;
+    padding: 2px;
+}
+#stream_table th:last-child {
+    display: none;
+}
+#stream_table td:last-child {
+    display: none;
+}
+#stream_table tr > td:first-child {
+    display: none;
+}
+#stream_table tr th:first-child {
+    display: none;
+}
+.table.table-striped.table-bordered {
+    display: inline;
+    float: left;
+    margin-top: 20px;
+    overflow: hidden !important;
+    width: 100% !important;
+}
+
+
+}
+
+@media (max-width: 520px)  {
+.logo {
+    margin-right: 40px;
+}
+.menu-options {
+    float: right;
+}
+.search-dashboard {
+    float: right;
+    margin-right: 10px;
+}
+.top-bar-quick-sec {
+    float: left;
+    width: 100%;
+}
+.drop-list,
+.notification.drop-list {
+    left: 0;
+    right: auto;
+    width: 230px;
+}
+.drop-list::before {
+    left: 17px;
+    right: auto;
+}
+.close-panel-this {
+    font-size: 25px;
+    height: 60px;
+    line-height: 60px;
+    right: 86%;
+    width: 60px;
+}
+.quick-all-report > .row > div {
+    width: 50%;
+}
+.widget-title > h3 {
+    font-size: 15px;
+}
+.widget-title > span {
+    font-size: 12px;
+}
+.widget-title {
+    padding: 15px;
+}
+.widget-controls > span {
+    font-size: 11px;
+    height: 26px;
+    line-height: 24px;
+    margin-right: -1px;
+    width: 26px;
+}
+.support-ticket-sec {
+    float: left;
+    padding: 20px;
+    width: 100%;
+}
+.support-ticket > li {
+    padding-right: 0;
+    text-align: center;
+}
+.tckt-status {
+    float: left;
+    text-align: left;
+    width: 50%;
+}
+.tckt-number {
+    float: right;
+    text-align: right;
+    width: 50%;
+}
+.ticket-info {
+    float: left;
+    margin-top: 10px;
+    text-align: left;
+    width: 100%;
+}
+.date-range {
+    float: left;
+    width: 100%;
+}
+.quick-btn-title {
+    float: left;
+    margin-top: 10px;
+    text-align: center;
+    width: 100%;
+}
+.quick-btn-title > a {
+    display: inline-block;
+    float: none;
+}
+.graph-container {
+    margin-top: 20px;
+    padding: 0 20px;
+}
+.social-activities > ul > li {
+    width: 50%;
+}
+.double-chart {
+    padding: 20px;
+}
+.dounut-chart > span#sparkline {
+    overflow: hidden;
+}
+.mini-profile-widget {
+    padding: 20px;
+}
+.mini-profile-area .social-btns {
+    float: left;
+    margin: 10px 0 0;
+    text-align: left;
+    width: 100%;
+}
+.mini-profile-area .social-btns > li {
+    float: left;
+    margin: 0 3px 0 0;
+}
+.save-draft {
+    padding: 20px;
+}
+.visitor-chart {
+    padding: 100px 20px 10px;
+}
+.visit-table {
+    padding: 20px;
+}
+.user-comments > li {
+    padding: 20px 0 20px 70px;
+}
+#vmap {
+    height: 250px;
+}
+.timeline {
+    padding: 0;
+}
+.timeline-sec > ul:before {
+    display: none;
+}
+.user-timeline {
+    display: table;
+    float: none;
+    margin: 0 auto 20px;
+    position: relative;
+    text-align: center;
+    width: auto;
+}
+.user-timeline > span:before {
+    background: none repeat scroll 0 0 #f5f5f5;
+    content: "";
+    height: 30px;
+    left: 50%;
+    position: absolute;
+    top: 100%;
+    width: 1px;
+}
+.timeline-detail:before {
+    display: none;
+}
+.all-mail > h2 {
+    font-size: 20px;
+}
+.email > h3 {
+
+    width: auto;
+}
+.inbox-msg {
+    width: auto;
+}
+.read-email {
+    width: 300px !important;
+}
+.close-reading {
+    background: none repeat scroll 0 0 #333;
+    color: #ffffff;
+    top: 141px;
+}
+.our-clients-sec {
+    padding: 20px;
+}
+#graph-wrapper {
+    margin: 0;
+}
+.activity-feed {
+    padding: 20px;
+}
+.profile-count > li {
+    display: inline-block;
+    float: left;
+    font-size: 19px;
+    line-height: 22px;
+    margin: 0;
+    width: 33.333%;
+}
+.widget.with-padding {
+    padding: 20px;
+}
+.button-sec > p a {
+    margin: 6px;
+}
+.button-sec > p > button {
+    margin: 6px;
+}
+.dropdown-example > ul > li {
+    margin: 6px;
+}
+.timeline2 ul li {
+    margin-left: 10px;
+}
+.tab-nav li {
+    float: left;
+    width: 50%;
+}
+.tab-nav li a {
+    border: 1px solid #ffffff;
+    
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    -ms-border-radius: 0;
+    -o-border-radius: 0;
+    border-radius: 0;
+
+    float: left;
+    margin: 0;
+    padding: 11px 20px;
+    text-align: center;
+    width: 100%;
+}
+.tab-nav li.active a {
+    line-height: 27px;
+}
+.fresheditor-toolbar .btn-toolbar > .btn-group {
+    height: 39px;
+    margin-bottom: 6px;
+    margin-right: 2px;
+    margin-top: 0;
+}
+.parallax-example {
+    padding: 50px 40px;
+}
+.vat {
+    display: none;
+}
+.invoice-number,
+.date,
+.quantity,
+.total {
+    width: 25%;
+}
+.invoice-number.long-column {
+    width: 75%;
+}
+.invoice li div p {
+    font-size: 9px;
+}
+
+.fc-header-right {
+    display: table;
+    float: none;
+    margin: 0 auto;
+    text-align: left;
+    width: auto;
+}
+.fc-header-title h2 {
+    font-size: 18px;
+}
+.bheader > h2 {
+    font-size: 12px;
+
+}
+.bbody > form {
+    display: inline;
+    float: left;
+    width: 100%;
+}
+.image-crop input[type="file"] {
+    display: table;
+    float: none;
+    margin: 0 auto;
+    width: 180px;
+}
+.step2 > h2 {
+    font-size: 12px;
+    padding: 0 20px;
+}
+.image-crop label {
+    float: left;
+    margin: 0 5px;
+    width: 100%;
+    margin:0;
+}
+.info input {
+    float: left;
+    width: 100%;
+}
+.anchor > li {
+    margin-bottom: 15px;
+}
+.actionBar > a {
+    font-size: 11px;
+    padding: 5px 8px;
+}
+.inline-form > input, .inline-form > textarea {
+    font-size: 12px;
+}
+.actionBar .close {
+    display: none;
+}
+
+#upload_form > div {
+    display: inline;
+    float: left;
+    text-align: center;
+    width: 100%;
+}
+#upload_form > h2 {
+    float: left;
+    font-size: 11px;
+    width: 100%;
+}
+.connected {
+    width: 100%;
+}
+#connected {
+    width: 100%;
+}
+#keywords thead tr th span {
+    font-size: 12px;
+    padding-right: 0;
+}
+#keywords tbody tr td {
+    font-size: 10px;
+    padding: 5px 0;
+}
+#keywords tbody tr td:last-child {
+    display: none;
+}
+#wrapper {
+    float: left;
+    overflow: hidden;
+    width: 100%;
+}
+#task-form input {
+    width: 70%;
+}
+#task-form button {
+    font-size: 12px;
+    width: 30%;
+}
+#task-container .nothing-message {
+    font-size: 15px;
+}
+.fc {
+    margin: 0;
+}
+.fc-header-left {
+    float: left;
+    text-align: center;
+    width: 100%;
+}
+.bheader > h2 {
+    font-size: 17px;
+}
+.info input {
+    margin-left: 0;
+}
+.stage-wrap[data-content] {
+    font-size: 12px;
+}
+#keywords thead tr th {
+    padding: 12px 8px 12px 15px;
+}
+.widget-content {
+    float: left;
+    padding: 20px;
+    width: 100%;
+}
+.gallery-sec > .row > div {
+    float: left;
+    width: 100%;
+}
+.maintainance-mode > h2 {
+    font-size: 17px;
+}
+form.subscribtion > button {
+    margin-top: 30px;
+}
+.top-bar-chart {
+    margin: 0;
+    padding: 0;
+    width: 50%;
+}
+.bar-chart-details {
+    display: inline-block;
+    float: none;
+}
+.error-sec > i {
+    font-size: 43px;
+}
+.error-sec h2 {
+    font-size: 102px;
+    letter-spacing: -4px;
+}
+.error-sec > p {
+    margin: 20px 0 0;
+    width: 100%;
+}
+.error-page > img {
+    float: left;
+    width: 100%;
+}
+.error-page > h2 {
+    font-size: 133px;
+    letter-spacing: -7px;
+}
+.error-page > span {
+    font-size: 24px;
+}
+.error-page > h2 > img {
+    width: 70px;
+}
+.wanna-touch-inner {
+    padding: 0;
+}
+.contact-info-list > ul > li {
+    float: left;
+    width: 100%;
+}
+.c-collapse > h2 i {
+    display: none;
+}
+.countdown-sec ul.countdown > li {
+
+    width: 70px;
+}
+.countdown-sec ul.countdown > li > span {
+    font-size: 18px;
+    margin-top: 24px;
+}
+.team-sec > .row > div {
+    width: 100%;
+}
+ul.portfolio-sec > li {
+    width: 100%;
+}
+.controls.portfolio-nav > ul > li {
+    margin-bottom: 30px;
+}
+#icons {
+    padding: 0 20px 20px;
+}
+.page-header {
+    font-size: 20px;
+}
+.themify-icons-list {
+    padding: 20px;
+}
+.icons-area-sec h3 {
+    font-size: 20px;
+}
+.themify-icons-list > .icons-main-section > .icons-container {
+    width: 100%;
+}
+.product-sec > .row > div {
+    width: 100%;
+}
+.cart-lists .c-input-number {
+    padding: 0;
+}
+.cart-total-box li {
+    padding: 18px 20px;
+}
+.single-product-infos > h2 {
+    font-size: 18px;
+    margin-bottom: 0;
+}
+.cart-total-sec > ul > li {
+    padding: 16px 20px;
+}
+.payment > ul {
+    padding: 20px;
+}
+.contact-sec {
+    padding: 20px;
+}
+.account-top-bar .logo {
+    float: left;
+    text-align: center;
+    width: 100%;
+}
+.account-top-bar .logo > a {
+    display: inline-block;
+    float: none;
+}
+.account-header-link {
+    float: left;
+    text-align: center;
+    width: 100%;
+}
+.account-header-link > li {
+    display: inline-block;
+    float: none;
+    margin: 0 10px;
+}
+.account-header-link > li > a {
+    padding: 0;
+}
+.acount-sec {
+    padding-top: 30px;
+}
+.acount-sec {
+    padding-bottom: 0;
+}
+.account-sec footer {
+    margin-bottom: 20px;
+    padding: 0;
+}
+.account-detail > ul > li > h3 {
+    float: left;
+    font-size: 16px;
+    margin: 0 0 4px;
+}
+.account-sec.lockscreen {
+    padding: 0 20px;
+    text-align: center;
+}
+.account-form > fieldset > input {
+    width: 250px;
+}
+.lockscreen .account-form > fieldset {
+    width: 100%;
+}
+.account-form > fieldset > input {
+    width: 230px;
+}
+.server {
+    padding: 0 20px;
+    text-align: center;
+}
+.server > span {
+    display: inline-block;
+    float: none;
+    margin: 10px 10px 0;
+}
+.main-content {
+    padding: 20px 10px;
+}
+.flat-chart-detail p {
+    font-size: 14px;
+}
+.custom-dropdowns {
+    margin: 9px 0 0 15px;
+}
+.main-content-area > .row > div.col-sm-6 {
+    width: 100%;
+}
+.slide-panel.active .close-panel-this {
+    right: 90%;
+}
+.maintainance-mode {
+    padding-top: 40px;
+    overflow: scroll;
+}
+
+
+
+
+
+
+
+}
